@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Check if an array is sorted ascending/out/
+/Problems/Check if an array is sorted ascending/out/production/classes/
+/Problems/Does an array contain N/out/
+/Problems/Does an array contain N/out/production/classes/
+/Problems/Maximum element in a matrix/out/
+/Problems/Maximum element in a matrix/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
